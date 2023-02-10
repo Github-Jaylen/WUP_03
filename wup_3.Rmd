@@ -35,6 +35,8 @@ basicCN + geom_boxplot()
 basicCN + geom_boxplot(notch=TRUE,outlier.color = "red") + stat_boxplot(geom ='errorbar') + labs(title="Fancy notch boxplot \n with 2 lines")
 ```
 
+This fancy notch plot shows the relation between the seating and how much people drink and the people in the back seem to drink far more than those elsewhere.
+
 ## Numerical Summarys 
 
 ## Inferential Tests
